@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francis-Tawiah
+- 👋 Hi, I’m Francis Tawiah
 - 👀 I’m interested in Data Analysis & ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Data Analytics Project
